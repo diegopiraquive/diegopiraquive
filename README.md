@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Diego Piraquive Gomez</h1>
-<h3 align="center">A passionate data scientist from Panama studying a Master in Data Science at Michigan State University</h3>
+<h3 align="center">A passionate data scientist from Panama currently pursuing a Master’s in Data Science at Michigan State University.</h3>
 
-- 🔭 I’m currently working on **Data Science and Machine Learning for study and research based purposes.**
+- 🔭 I’m actively working on **data science and machine learning projects for academic and research purposes.**
 
-- 🌱 I’m currently learning **about Artificial Intelligence applied to predictive models**
+- 🌱 I’m also learning **about artificial intelligence as applied to predictive models**
 
 - 👨‍💻 All of my projects are available at [https://diegopiraquive.github.io](https://diegopiraquive.github.io)
 
-- 📫 How to reach me **diegopiraquiveg@gmail.com**
+- 📫 How to reach me: **diegopiraquiveg@gmail.com**
 
-- 📄 Know about my experiences [https://diegopiraquive.github.io](https://diegopiraquive.github.io)
+- 📄 Know about my experiences: [https://diegopiraquive.github.io](https://diegopiraquive.github.io)
 
-- ⚡ Fun fact **When I'm not working I'm in a canoe in the ocean**
+- ⚡ Fun fact: **When I’m not working, you can find me canoeing in the ocean.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
